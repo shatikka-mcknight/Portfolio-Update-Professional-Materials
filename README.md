@@ -11,7 +11,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 ## Table of Contents
 * [Instructions](#instructions)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Links](#links)
@@ -34,12 +33,7 @@ Updated LinkedIn
 - Framework for [Bulma](https://bulma.io/)
 
 
-## Features
-List the ready features here:
-- Application must use React to render content.
-- Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
-- Application has a single Project component that’s used multiple times in the Portfolio section.
-- Application has a single Footer component that appears on multiple pages.
+
 
 
 
@@ -60,5 +54,5 @@ Future Development:
 
 
 ## Links
-- [GitHub File](https://github.com/shatikka-mcknight/TikkaKnight-React-Portfolio)
-- [Heroku React Portfolio](https://tikkaknight-react-portfolio.herokuapp.com/)
+- [GitHub File](https://github.com/shatikka-mcknight/Portfolio-Update-Professional-Materials)
+- [Active Porfolio](https://shatikka-mcknight.github.io/Portfolio-Update-Professional-Materials/)
